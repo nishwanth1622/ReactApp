@@ -1,0 +1,218 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders basic Home page 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="App"
+      >
+        <ul>
+          <button
+            type="button"
+          >
+            <li>
+              <a
+                href="/"
+              >
+                HomePage
+              </a>
+            </li>
+          </button>
+          <button
+            type="button"
+          >
+            <li>
+              <a
+                href="/AboutUs"
+              >
+                AboutUs
+              </a>
+            </li>
+          </button>
+          <button
+            type="button"
+          >
+            <li>
+              <a
+                href="/Services/Main"
+              >
+                Services
+              </a>
+            </li>
+          </button>
+          <button
+            type="button"
+          >
+            <li>
+              <a
+                href="/Contact"
+              >
+                Contact
+              </a>
+            </li>
+          </button>
+          <button
+            type="button"
+          >
+            <li>
+              <a
+                href="/Register"
+              >
+                Register
+              </a>
+            </li>
+          </button>
+        </ul>
+        <h1>
+          Indusvalley INC
+        </h1>
+        <img
+          alt="react logo"
+          src="Indusvalley.jpeg"
+        />
+        <h4>
+           Trust comes with time
+        </h4>
+        <p>
+          Everyday at Indusvalley, we wake up with one sole focus - to provide our clients with the best IT solutions and help them optimize their operations. 
+          <br />
+          Since 1996, we have devoted our expertise to understanding client needs to find the best solution or build them one if none is available. We simply don't believe in impossible challenges. We are especially adept at offering our clients customized solutions for their unique needs. And since trust comes with time, Indus Valley has grown to become the benchmark for quality IT consulting over the 25 years we have been in existence. No matter what you need, you can always rely on our experts to deliver over and above your expectations.
+        </p>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="App"
+    >
+      <ul>
+        <button
+          type="button"
+        >
+          <li>
+            <a
+              href="/"
+            >
+              HomePage
+            </a>
+          </li>
+        </button>
+        <button
+          type="button"
+        >
+          <li>
+            <a
+              href="/AboutUs"
+            >
+              AboutUs
+            </a>
+          </li>
+        </button>
+        <button
+          type="button"
+        >
+          <li>
+            <a
+              href="/Services/Main"
+            >
+              Services
+            </a>
+          </li>
+        </button>
+        <button
+          type="button"
+        >
+          <li>
+            <a
+              href="/Contact"
+            >
+              Contact
+            </a>
+          </li>
+        </button>
+        <button
+          type="button"
+        >
+          <li>
+            <a
+              href="/Register"
+            >
+              Register
+            </a>
+          </li>
+        </button>
+      </ul>
+      <h1>
+        Indusvalley INC
+      </h1>
+      <img
+        alt="react logo"
+        src="Indusvalley.jpeg"
+      />
+      <h4>
+         Trust comes with time
+      </h4>
+      <p>
+        Everyday at Indusvalley, we wake up with one sole focus - to provide our clients with the best IT solutions and help them optimize their operations. 
+        <br />
+        Since 1996, we have devoted our expertise to understanding client needs to find the best solution or build them one if none is available. We simply don't believe in impossible challenges. We are especially adept at offering our clients customized solutions for their unique needs. And since trust comes with time, Indus Valley has grown to become the benchmark for quality IT consulting over the 25 years we have been in existence. No matter what you need, you can always rely on our experts to deliver over and above your expectations.
+      </p>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`renders learn react link 1`] = `ShallowWrapper {}`;
